@@ -37,8 +37,6 @@ Website: [bits. lab](https://www.sylviamotor.com/bits-lab/index.html)
 
 **Current status:** Available through a LINE-authenticated workspace, with ongoing iteration.
 
-**Evidence:** The [public walkthrough](https://www.sylviamotor.com/bits-lab/originals/owe.html) includes screenshots dated November 11, 2026, showing a sample personal task being created, viewed, and completed. It also shows reminder settings and acceptance cards. This demonstrates the recorded workflow; it does not verify recurring reminder execution or end-to-end LINE notification delivery.
-
 ### Sylvia Motor
 
 **Automotive Media · Content Strategy · Digital Operations**
