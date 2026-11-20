@@ -119,12 +119,7 @@ Destination parking planning is also presented in the public beta: users can rev
 5. **Verify:** Review functionality, usability, reliability, and expected behavior.
 6. **Iterate:** Use testing results and user feedback to guide the next improvements.
 
-## Additional Projects
-
-**Page-Kit · In Development**  
-An original bits. lab tool exploring modular page and dashboard creation for people without an engineering background. It is distinct from the third-party PageKit service covered in our learning guides.
-
-[Page-Kit overview](https://www.sylviamotor.com/bits-lab/originals/page-kit.html)
+## Shared Infrastructure
 
 **Notification Hub · Shared Infrastructure**  
 Shared notification infrastructure supporting product workflows, rather than a standalone public product.
@@ -139,7 +134,7 @@ Shared notification infrastructure supporting product workflows, rather than a s
 | SYLBIE Studio | Brand Strategy & Integrated Marketing |
 | bits. lab | Lightweight Digital Tools & Workflow Solutions |
 
-MOVE, OWE, SHIFT, GEMO, TEMO, and Page-Kit belong to **bits. lab**. MOVE also collaborates with **Sylvia Motor** on cross-brand promotion.
+MOVE, OWE, SHIFT, GEMO, and TEMO belong to **bits. lab**. MOVE also collaborates with **Sylvia Motor** on cross-brand promotion.
 
 My work in automotive media and small-team operations provides everyday contexts for discovering problems and shaping these tools.
 
